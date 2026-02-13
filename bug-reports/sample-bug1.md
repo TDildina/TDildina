@@ -41,5 +41,6 @@
 
 ## Attachments
 
-![Скриншот](./bug-reports/BR_UI_01.jpg)
+![Скриншот](./BR_UI_01.jpg)
+
 
