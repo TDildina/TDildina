@@ -41,4 +41,5 @@
 
 ## Attachments
 
-![Скриншот](./bug-reports/assets/BR_UI_01.jpg)
+![Скриншот](./bug-reports/BR_UI_01.jpg)
+
